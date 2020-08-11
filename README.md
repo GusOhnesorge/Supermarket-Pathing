@@ -1,2 +1,2 @@
 # Supermarket-Pathing
-[READ ABOUT THIS PROGRAM](../Research_Paper)
+[READ ABOUT THIS PROGRAM](/Research_Paper)
